@@ -67,3 +67,8 @@ My repositories focus on geospatial analysis, machine learning, GIS workflows an
 - Copernicus Data
 - LiDAR
 - Spatial Statistics
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michalkusnierz/)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:66666fbi66666@gmail.com)
