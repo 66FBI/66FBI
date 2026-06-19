@@ -41,6 +41,7 @@ My repositories focus on geospatial analysis, machine learning, GIS workflows an
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
@@ -54,4 +55,6 @@ My repositories focus on geospatial analysis, machine learning, GIS workflows an
 - Natural Language Processing (NLP)
 - Remote Sensing
 - Earth Observation
+- Copernicus Data
+- LiDAR
 - Spatial Statistics
