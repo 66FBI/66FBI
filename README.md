@@ -37,6 +37,15 @@ My repositories focus on geospatial analysis, machine learning, remote sensing, 
 ![Folium](https://img.shields.io/badge/Folium-77B829?logoColor=white)
 ![PySAL](https://img.shields.io/badge/PySAL-336699?logoColor=white)
 
+### Currently Exploring
+
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
 ## Areas of Interest
 
 - Spatial Data Analytics
