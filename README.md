@@ -13,10 +13,12 @@ My repositories focus on geospatial analysis, machine learning, remote sensing, 
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?logo=autodesk&logoColor=white)
 
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
@@ -35,9 +37,12 @@ My repositories focus on geospatial analysis, machine learning, remote sensing, 
 ![Folium](https://img.shields.io/badge/Folium-77B829?logoColor=white)
 ![PySAL](https://img.shields.io/badge/PySAL-336699?logoColor=white)
 
-## Interests
+## Areas of Interest
+
 - Spatial Data Analytics
 - GIS
 - Machine Learning
+- Natural Language Processing (NLP)
 - Remote Sensing
 - Earth Observation
+- Spatial Statistics
