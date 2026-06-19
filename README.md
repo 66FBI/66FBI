@@ -7,12 +7,33 @@ My experience combines GIS, data science and statistical analysis, with hands-on
 My repositories focus on geospatial analysis, machine learning, remote sensing, GIS workflows and data-driven problem solving using Python, SQL and modern data science tools.
 
 ## Technologies
-- Python
-- SQL (MS SQL Server)
-- R
-- MATLAB
-- QGIS
-- ArcGIS
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+
+![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
+![statsmodels](https://img.shields.io/badge/statsmodels-2C5AA0?logoColor=white)
+![matplotlib](https://img.shields.io/badge/matplotlib-11557C?logoColor=white)
+![seaborn](https://img.shields.io/badge/seaborn-5B8FA8?logoColor=white)
+
+![QGIS](https://img.shields.io/badge/QGIS-589632?logo=qgis&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?logoColor=white)
+![Rasterio](https://img.shields.io/badge/Rasterio-4CAF50?logoColor=white)
+![Shapely](https://img.shields.io/badge/Shapely-2E7D32?logoColor=white)
+![Folium](https://img.shields.io/badge/Folium-77B829?logoColor=white)
+![PySAL](https://img.shields.io/badge/PySAL-336699?logoColor=white)
 
 ## Interests
 - Spatial Data Analytics
@@ -20,18 +41,3 @@ My repositories focus on geospatial analysis, machine learning, remote sensing, 
 - Machine Learning
 - Remote Sensing
 - Earth Observation
-
-<!--
-**66FBI/66FBI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
