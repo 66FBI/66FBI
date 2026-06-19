@@ -1,10 +1,10 @@
-# Hi, I'm Michał
+# Spatial Data Analytics • GIS • Machine Learning • Remote Sensing
 
-Geoinformatics student at AGH University of Science and Technology with a strong interest in spatial data analytics, machine learning, remote sensing and Earth Observation technologies.
+Geoinformatics student at AGH University of Science and Technology with interests in spatial data analytics, machine learning, remote sensing and Earth Observation technologies.
 
-My experience combines GIS, data science and statistical analysis, with hands-on work in geospatial analytics, NLP, machine learning and database systems. Through academic projects and student organizations, I have explored how data-driven approaches can be applied to spatial and environmental challenges.
+My academic projects and extracurricular activities combine GIS, data science and statistical analysis, with hands-on work in geospatial analytics, NLP, machine learning, spatial statistics and database systems. Through student organizations and personal projects, I explore how data-driven approaches can be applied to spatial, environmental and real-world analytical challenges.
 
-My repositories focus on geospatial analysis, machine learning, remote sensing, GIS workflows and data-driven problem solving using Python, SQL and modern data science tools.
+My repositories focus on geospatial analysis, machine learning, GIS workflows and data-driven problem solving using Python, SQL and modern data science tools, with a particular interest in the intersection of geospatial technologies and data science.
 
 ## Technologies
 
