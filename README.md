@@ -22,6 +22,7 @@ My repositories focus on geospatial analysis, machine learning, GIS workflows an
 ![seaborn](https://img.shields.io/badge/seaborn-5B8FA8?logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
 
 ### GIS & Geospatial Analysis
 
@@ -45,12 +46,11 @@ My repositories focus on geospatial analysis, machine learning, GIS workflows an
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ## Currently Exploring
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
