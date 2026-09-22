@@ -38,6 +38,7 @@ My repositories focus on geospatial analysis, machine learning, GIS workflows an
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?logo=autodesk&logoColor=white)
 
 ### Development Tools
@@ -50,11 +51,13 @@ My repositories focus on geospatial analysis, machine learning, GIS workflows an
 
 ## Currently Exploring
 
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![PostGIS](https://img.shields.io/badge/PostGIS-4169E1?logo=postgresql&logoColor=white)
+![GeoServer](https://img.shields.io/badge/GeoServer-5FAE46?logo=geoserver&logoColor=white)
 
 ## Areas of Interest
 
