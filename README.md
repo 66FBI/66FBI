@@ -1,10 +1,27 @@
-# Spatial Data Analytics • GIS • Machine Learning • Remote Sensing
+# Spatial Data Science • GIS • Remote Sensing • Earth Observation
 
-Geoinformatics student at AGH University of Science and Technology with interests in spatial data analytics, machine learning, remote sensing and Earth Observation technologies.
+Geoinformatics student at AGH University of Science and Technology focused on **spatial data science, GIS, remote sensing and Earth Observation**.
 
-My academic projects and extracurricular activities combine GIS, data science and statistical analysis, with hands-on work in geospatial analytics, NLP, machine learning, spatial statistics and database systems. Through student organizations and personal projects, I explore how data-driven approaches can be applied to spatial, environmental and real-world analytical challenges.
+My projects combine geospatial analysis with statistical modeling, machine learning and scientific computing. I work with spatial and satellite data using Python, R, MATLAB and GIS environments, with experience ranging from spatial statistics and point-pattern analysis to multispectral image classification, change detection, LiDAR, time-series modeling and environmental analysis.
 
-My repositories focus on geospatial analysis, machine learning, GIS workflows and data-driven problem solving using Python, SQL and modern data science tools, with a particular interest in the intersection of geospatial technologies and data science.
+I am particularly interested in applying data-driven methods to **urban, environmental and Earth Observation problems**, and in the intersection of geospatial technologies, data science and machine learning.
+
+## Selected Projects
+
+### [Remote Sensing & Earth Observation](https://github.com/66FBI/remote-sensing)
+Nine applied Earth Observation case studies covering Sentinel, Landsat, SPOT 6, Pleiades and LiDAR data, including land-cover classification, multitemporal change detection, wildfire severity, agricultural drought monitoring, urban heat-island analysis and spatial planning applications.
+
+### [Spatial Data Analysis](https://github.com/66FBI/spatial-data-analysis)
+Python-based spatial data science exercises covering vector and raster GIS, OpenStreetMap data acquisition, point-process analysis, kernel density estimation, spatial statistical testing, clustering and spatial autocorrelation.
+
+### [Antarctic Sea Ice Modeling](https://github.com/66FBI/antarctic-sea-ice-modeling)
+Spatial-temporal modeling of Antarctic sea-ice extent using historical observations, regression, Fourier analysis, autoregressive modeling and Antarctic polar visualization.
+
+### [Landslide Mapping — Pietrzejowice](https://github.com/66FBI/landslide-mapping-pietrzejowice)
+Geomorphological landslide investigation combining terrain analysis, UAV-derived orthophotography, field verification, GIS interpretation and formal landslide documentation.
+
+### [Earth Science Modeling](https://github.com/66FBI/earth-science-modeling)
+Scientific-computing exercises covering numerical PDE solutions, diffusion, gravity modeling, wave propagation, Monte Carlo simulation, GPU computing and Bayesian MCMC analysis.
 
 ## Technologies
 
@@ -61,15 +78,13 @@ My repositories focus on geospatial analysis, machine learning, GIS workflows an
 
 ## Areas of Interest
 
-- Spatial Data Analytics
-- GIS
+- Spatial Data Science & Analytics
+- GIS & Spatial Statistics
+- Remote Sensing & Earth Observation
+- Urban & Environmental Analytics
 - Machine Learning
-- Natural Language Processing (NLP)
-- Remote Sensing
-- Earth Observation
-- Copernicus Data
-- LiDAR
-- Spatial Statistics
+- LiDAR & Point-Cloud Analysis
+- Natural Language Processing
 
 ## Let's Connect
 
