@@ -89,4 +89,4 @@ Scientific-computing exercises covering numerical PDE solutions, diffusion, grav
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michalkusnierz/)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:66666fbi66666@gmail.com)
+[![Email](https://img.shields.io/badge/mkusnierzgeo%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:mkusnierzgeo@gmail.com)
